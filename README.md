@@ -1,6 +1,6 @@
 # AFOLU-II
 PROYECTOS DE LA REGION
-# AGROEUDR_MIAMBIENTE — Streamlit PoC
+# AGROEUDR_MIAMBIENTE — Streamlit 
 
 Prueba de concepto funcional para un visor de preevaluación espacial de deforestación post-2020 por parcela, pensada para el caso Río Sereno, Renacimiento, Chiriquí, Panamá.
 
