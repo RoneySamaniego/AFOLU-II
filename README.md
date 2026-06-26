@@ -80,7 +80,7 @@ Antes de ejecutar la app debe tener acceso a Google Earth Engine y un proyecto d
 
 ```bash
 earthengine authenticate
-earthengine set_project TU_PROJECT_ID
+earthengine set_project ee-pty
 ```
 
 También puede definir la variable de entorno:
